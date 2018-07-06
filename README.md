@@ -1,0 +1,2 @@
+# Churn_Analysis_Python_Machine-Learning
+The goal of the project is to determine the important reasons of employees churn in a company. The dataset has been taken from Kaggle.com. This dataset has 34 features and a target label 'Attrition' with 1470 instances. This project is using various machine learning models- Naive Bayes, Decision Tree, Random Forest, Knn, SVC, LogisticRegression to predict whether the employee will leave the present company or not in future.
